@@ -15,7 +15,7 @@
         }
     },
     "dependencies": {
-        "@fleekhq/fleek-storage-js": "^1.0.2",
+        "@fleekhq/fleek-storage-js": "^1.0.14",
         "bignumber.js": "^9.0.0",
         "cli-progress": "^3.8.2",
         "dotenv": "^8.2.0",
