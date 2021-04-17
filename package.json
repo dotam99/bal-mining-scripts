@@ -22,7 +22,7 @@
         "ethereumjs-util": "^7.0.7",
         "husky": "^4.2.5",
         "isomorphic-fetch": "^2.2.1",
-        "prettier": "^2.0.5",
+        "prettier": "^2.2.1",
         "pretty-quick": "^2.0.1",
         "regenerator-runtime": "^0.13.7",
         "require-context": "^1.1.0",
