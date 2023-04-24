@@ -20,7 +20,7 @@
         "cli-progress": "^3.8.2",
         "dotenv": "^8.2.0",
         "ethereumjs-util": "^7.0.7",
-        "husky": "^4.2.5",
+        "husky": "^5.0.0",
         "isomorphic-fetch": "^2.2.1",
         "prettier": "^2.0.5",
         "pretty-quick": "^2.0.1",
